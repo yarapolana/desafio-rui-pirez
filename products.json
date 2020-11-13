@@ -1,0 +1,35 @@
+{
+	"items": [{
+		"title": "Karamell Express",
+		"path": "Produkter \u003e Karameller \u003e Karamell Express",
+		"image": "/images/noImage.png"
+	}, {
+		"title": "Godisautomat",
+		"path": "Produkter \u003e Bregmos \u003e Godisautomat",
+		"image": "/images/noImage.png"
+	}, {
+		"title": "Microfiberhandduk 70X140 cm",
+		"path": "Produkter \u003e Handdukar \u003e Microfiberhandduk 70X140 cm",
+		"image": "/images/noImage.png"
+	}, {
+		"title": "Nantucket Jacka Herr",
+		"path": "Produkter \u003e Jackor \u003e Nantucket Jacka Herr",
+		"image": "/images/noImage.png"
+	}, {
+		"title": "Oxbridge Jacka Herr",
+		"path": "Produkter \u003e Jackor \u003e Oxbridge Jacka Herr",
+		"image": "/images/noImage.png"
+	}, {
+		"title": "Oxbridge Jacka Dam",
+		"path": "Produkter \u003e Jackor \u003e Oxbridge Jacka Dam",
+		"image": "/images/noImage.png"
+	}, {
+		"title": "Nantucket Jacka Dam",
+		"path": "Produkter \u003e Jackor \u003e Nantucket Jacka Dam",
+		"image": "/images/noImage.png"
+	}, {
+		"title": "Bellington Jacka Herr",
+		"path": "Produkter \u003e Jackor \u003e Bellington Jacka Herr",
+		"image": "/images/noImage.png"
+	}]
+}

@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.search-box {
+  position: relative;
+}
+
+input {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+}
+
+.icon {
+  position: absolute;
+  top: 6px;
+  right: 10px;
+}
+.icon i {
+  font-size: 18px;
+}
+
+.fa-search {
+  color: gray;
+}
+
+.Product {
+  background-color: white !important;
+  padding: 20px;
+  width: 400px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  color: black;
+  text-align: left;
+
+  display: flex;
+}
+
+.Product h3 {
+  margin: 0;
+}
+
+.Product img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.Product small {
+  font-size: 12px;
+  color: gray;
+}
